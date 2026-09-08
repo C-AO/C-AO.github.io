@@ -6,7 +6,7 @@ subtitle: PhD Student in Mathematics · Nanjing University of Science and Techno
 
 profile:
   align: right
-  image: myself.png
+  image: myself2.jpg
   image_circular: false # crops the image to make it circular
 more_info: >
   <p>School of Mathematics & Statistics</p>
