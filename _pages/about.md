@@ -30,5 +30,3 @@ latest_posts:
 I am Zihan Cao (曹子涵), a PhD student in Mathematics at the School of Mathematics & Statistics, Nanjing University of Science and Technology. My research focuses on Allen–Cahn phase-field equations and Schrödinger equations.
 
 我是曹子涵，现为南京理工大学数学与统计学院数学专业博士研究生。我的研究方向主要包括 Allen–Cahn 相场方程与薛定谔方程。
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
